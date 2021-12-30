@@ -1,6 +1,3 @@
-
-
-
 # [Project 1: Learnplatform digital learning EDA: Project Overview](https://www.kaggle.com/kavyagowdala/exploratory-data-analysis)
 * Conducted exploratory data analysis to find insights on The state of digital learning in 2020 from a 
 dataset taken from the Kaggle competition. 
