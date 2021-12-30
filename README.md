@@ -19,7 +19,7 @@ events.
 using timeline slicer and tool tip.
 * Created measures using Dax functions (SUM, FILTER, ALL, CALCULATE)
 
-![]()
+![](https://github.com/kavyagowda21/kavya_gowda_portfolio/blob/main/image/Fin%20data%20analysis%20.png)
 
 # [Project 3: AtliQ Hardware Sales insights Data Analysis ](https://drive.google.com/drive/folders/1nNqdnMJ75bjV0IHLtXqMUTVnq1Y-ESeH?usp=sharing)
 * Conducted data analysis using complex SQL Queries, joins, functions to understand the sales.
@@ -28,6 +28,6 @@ to create measures.
 * Displayed compelling visuals of profit and revenue distribution by percentage with interactive timeline 
 slicer.
 
-![]()
+![](https://github.com/kavyagowda21/kavya_gowda_portfolio/blob/main/image/Hardware%20analysis%20.png)
 
 
