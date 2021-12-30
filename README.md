@@ -27,7 +27,7 @@ slicer.
 
 ![](/image/Hardware%20analysis%20.png)
 
-# [Project 4: Customer Segmentation Analysis] (https://public.tableau.com/app/profile/kavya.gowda/viz/CustomerSegmentationAnalysis_16388900281370/Story1)
+# [Project 4: Customer Segmentation Analysis](https://public.tableau.com/app/profile/kavya.gowda/viz/CustomerSegmentationAnalysis_16388900281370/Story1)
 * Conducted Customer Segmentation Analysis based on region, age, gender, account balance and job classification on Bank operating in UK to get insights for target marketing.  
 
-![]()
+![](/image/tableau%20bank%20analysis%20.png)
