@@ -11,4 +11,4 @@ dataset taken from the Kaggle competition.
 to factors such as district demographics, broadband access, and state/national level policies and 
 events.
 
-![]()
+![](https://github.com/kavyagowda21/kavya_gowda_portfolio/blob/main/image/heatmap.png)
