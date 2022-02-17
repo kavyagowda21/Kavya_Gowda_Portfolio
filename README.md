@@ -24,7 +24,7 @@ reliably generate stop.
 # [Project 3: Customer Segmentation Analysis](https://public.tableau.com/app/profile/kavya.gowda/viz/CustomerSegmentationAnalysis_16388900281370/Story1)
 * Conducted Customer Segmentation Analysis based on region, age, gender, account balance and job classification on Bank operating in UK to get insights for target marketing.  
 
-![](/image/tableau%20bank%20analysis%20.png)
+![](image/cluster analysis .png)
 
 
 # [Project 4: Personal Finance Data Analysis: Project Overview](https://drive.google.com/drive/folders/1nNqdnMJ75bjV0IHLtXqMUTVnq1Y-ESeH?usp=sharing)
@@ -33,7 +33,7 @@ reliably generate stop.
 using timeline slicer and tool tip.
 * Created measures using Dax functions (SUM, FILTER, ALL, CALCULATE)
 
-![](/image/Fin%20data%20analysis%20.png)
+![](image/saving.png)
 
 # [Project 5: AtliQ Hardware Sales insights Data Analysis ](https://drive.google.com/drive/folders/1nNqdnMJ75bjV0IHLtXqMUTVnq1Y-ESeH?usp=sharing)
 * Conducted data analysis using complex SQL Queries, joins, functions to understand the sales.
@@ -42,5 +42,5 @@ to create measures.
 * Displayed compelling visuals of profit and revenue distribution by percentage with interactive timeline 
 slicer.
 
-![](/image/Hardware%20analysis%20.png)
+![](image/atliq.png)
 
