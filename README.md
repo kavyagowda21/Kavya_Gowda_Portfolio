@@ -13,7 +13,21 @@ events.
 
 ![](/image/heatmap.png)
 
-# [Project 2: Personal Finance Data Analysis: Project Overview](https://drive.google.com/drive/folders/1nNqdnMJ75bjV0IHLtXqMUTVnq1Y-ESeH?usp=sharing)
+#[Project 2: Stanford Open Policing Project Data Analysis](https://www.kaggle.com/kavyagowdala/stanford-open-policing-project-data-analysis)
+* Analysing Data on Traffic and Pedestrian Stops by Police in California to get insights to help researchers, journalists, and policymakers investigate and improve interactions between police and the public.
+* Implementation of data mining techniques Using Python Packages such as Pandas, Seaborn, Matplotlib.
+* visualized how predictable are the stop rates? Are there times and places that
+reliably generate stop. 
+
+![](/image/heatmap.png)
+
+# [Project 3: Customer Segmentation Analysis](https://public.tableau.com/app/profile/kavya.gowda/viz/CustomerSegmentationAnalysis_16388900281370/Story1)
+* Conducted Customer Segmentation Analysis based on region, age, gender, account balance and job classification on Bank operating in UK to get insights for target marketing.  
+
+![](/image/tableau%20bank%20analysis%20.png)
+
+
+# [Project 4: Personal Finance Data Analysis: Project Overview](https://drive.google.com/drive/folders/1nNqdnMJ75bjV0IHLtXqMUTVnq1Y-ESeH?usp=sharing)
 * Implementation of data mining techniques to gain insights in finance data taken from GitHub.
 * Created an interactive dashboard to get an understanding of spending and saving habits year over year 
 using timeline slicer and tool tip.
@@ -21,7 +35,7 @@ using timeline slicer and tool tip.
 
 ![](/image/Fin%20data%20analysis%20.png)
 
-# [Project 3: AtliQ Hardware Sales insights Data Analysis ](https://drive.google.com/drive/folders/1nNqdnMJ75bjV0IHLtXqMUTVnq1Y-ESeH?usp=sharing)
+# [Project 5: AtliQ Hardware Sales insights Data Analysis ](https://drive.google.com/drive/folders/1nNqdnMJ75bjV0IHLtXqMUTVnq1Y-ESeH?usp=sharing)
 * Conducted data analysis using complex SQL Queries, joins, functions to understand the sales.
 * Created an interactive Dashboard in power BI using DAX functions (FILTER, ALL, CALCULATE, SUM) 
 to create measures.
@@ -30,7 +44,3 @@ slicer.
 
 ![](/image/Hardware%20analysis%20.png)
 
-# [Project 4: Customer Segmentation Analysis](https://public.tableau.com/app/profile/kavya.gowda/viz/CustomerSegmentationAnalysis_16388900281370/Story1)
-* Conducted Customer Segmentation Analysis based on region, age, gender, account balance and job classification on Bank operating in UK to get insights for target marketing.  
-
-![](/image/tableau%20bank%20analysis%20.png)
