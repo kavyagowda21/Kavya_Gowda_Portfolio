@@ -19,7 +19,7 @@ events.
 * visualized how predictable are the stop rates? Are there times and places that
 reliably generate stop. 
 
-![](/image/image/policy data analysis.png)
+![](image/policy data analysis .png)
 
 # [Project 3: Customer Segmentation Analysis](https://public.tableau.com/app/profile/kavya.gowda/viz/CustomerSegmentationAnalysis_16388900281370/Story1)
 * Conducted Customer Segmentation Analysis based on region, age, gender, account balance and job classification on Bank operating in UK to get insights for target marketing.  
