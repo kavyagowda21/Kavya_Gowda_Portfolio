@@ -1,4 +1,4 @@
-# Kavya Gowda Portfolio  
+# Kavya Gowda Portfolio  | kavyagowda987654@gmail.com | +91 7975376285 | www.linkedin.com/in/kavya-gowda-05144915a | https://public.tableau.com/app/profile/kavya.gowda 
 
 
 # [Project 1: Learnplatform digital learning EDA: Project Overview](https://www.kaggle.com/kavyagowdala/exploratory-data-analysis)
