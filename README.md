@@ -8,7 +8,7 @@ https://public.tableau.com/app/profile/kavya.gowda
 * nearly 1.3M rows of data was transformed and analysed using Python Packages (Pandas, Numpy, Matplotlib and Seaborn). 
 * For each customer_id  predicted up to 12 labels for the article_id, which is the predicted items a customer will buy in the next 7-day period after the training time period.
 
-![](/image/heatmap.png)
+![](image/H&M.png)
 
 # [Project 2: Learnplatform digital learning EDA: Project Overview](https://www.kaggle.com/kavyagowdala/exploratory-data-analysis)
 * Conducted exploratory data analysis to find insights on The state of digital learning in 2020 from a 
@@ -27,7 +27,7 @@ events.
 * Applied data mining techiniques to remove redundant columns, clean and transform the data. 
 * Build Models using Random Forest Regression and Extra Tree Regression which predicted the outcome with 93% accuracy. 
 
-![](/image/heatmap.png)
+![](image/zomato.png)
 
 
 # [Project 4: Customer Segmentation Analysis in Tableau](https://public.tableau.com/app/profile/kavya.gowda/viz/CustomerSegmentationAnalysis_16388900281370/Story1)
